@@ -1,0 +1,41 @@
+WIDTH = 1040
+HEIGHT = 440
+
+FPS = 60
+
+TUBE_WIDTH = 45
+TUBE_HEIGHT = 240
+BALL_RADIUS = 15
+NUMBER_OF_BALLS = 4
+
+TUBE_COLOR = (200,200,200)
+TUBE_LINE_WIDTH = 3
+TUBE_GAP = 60
+NUMBER_OF_TUBES = 9
+
+#            R     G    B
+GRAY =      (100, 100, 100)
+NAVYBLUE =  (60,  60,  100)
+WHITE =     (255, 255, 255)
+RED =       (255, 0,     0)
+GREEN =     (0,   255,   0)
+BLUE =      (0,   0,   255)
+YELLOW =    (255, 255,   0)
+ORANGE =    (255, 128,   0)
+PURPLE =    (255, 0,   255)
+CYAN =      (0,   255, 255)
+
+BGCOLOR = NAVYBLUE
+#BGCOLOR = '#003366'
+LIGHTBGCOLOR = GRAY
+
+ALLCOLORS = (RED, GREEN, BLUE, YELLOW, ORANGE, PURPLE, CYAN)
+
+
+
+
+
+
+
+
+
